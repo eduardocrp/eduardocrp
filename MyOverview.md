@@ -38,11 +38,11 @@ Atualmente formado em Bacharelado de Ciência da Computação com o interesse no
 * Funções: Desenvolvimento de sistemas em Access com VBA, aplicação para integração em java para coletores de dados Honeywell e Argox
 * Empresa: STAR ENGENHARIA LTDA/AD ENGENHARIA LTDA (GRUPO AD)
 * Período: Início em Março 2012 até Julho 2017
-## Analista em Desenvolvimento de Sistemas 
+### Analista em Desenvolvimento de Sistemas 
 * Funções: Desenvolvimento de sistema em Access com VBA e Java Web com JSF, PRIMEFACES e MySQL
 * Empresa: AD ENGENHARIA LTDA (GRUPO AD)
 * Período: Início em Fevereiro 2018 até Março 2019
-## Desenvolvedor IV 
+### Desenvolvedor IV 
 * Funções: Desenvolvimento de sistema com Oracle PL/SQL, Java, Adobe Flex, Morphis Foundations e HTML5;
 * Empresa: MV SISTEMAS
 * Período: Início em Março 2019 até o momento.
