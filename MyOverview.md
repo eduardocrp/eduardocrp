@@ -9,7 +9,7 @@ C.N.H. Tipo: AB </br>
 
 
 ## Resumo
-Atualmente formado em Bacharelado de Ciência da Computação com o interesse no desenvolvivmento de projetos de aplicações web com utilização de metódologias agéis e processos aplicadas a cada tipo de projeto.
+Atualmente formado em Bacharelado de Ciência da Computação com o interesse de trabalhar em desenvolvimento de projetos com aplicações web, utilizando metódologias agéis e processos aplicados a cada tipo de projeto.
 
 ## Conhecimentos
 * Banco de dados Oracle e Mysql - desenvolvido projetos profissionalmente
