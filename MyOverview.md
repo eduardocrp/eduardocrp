@@ -22,7 +22,7 @@ Atualmente formado em Bacharelado de Ciência da Computação com o interesse no
 
 ## Formação Acadêmica
 
-* Curso Superior Completo em Ciência da Computação na Faculdade dos Guararapes
+* Bacharelado em Ciência da Computação na Faculdade dos Guararapes
 * Academia Java na Fuctura (Java, JDBC, JPA, Hibernate, JSF, Primefaces, JasperReports Básico e Webservices Rest Básico)
 * Curso Oracle Developer PL/SQL na Udemy
 * Curso Inglês Módulo Básico na CNA
