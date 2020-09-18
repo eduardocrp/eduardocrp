@@ -43,6 +43,6 @@ Atualmente formado em Bacharelado de Ciência da Computação com o interesse de
 * Empresa: AD ENGENHARIA LTDA (GRUPO AD)
 * Período: Início em Fevereiro 2018 até Março 2019
 ### Desenvolvedor IV 
-* Funções: Desenvolvimento de sistema com Oracle PL/SQL, Java, Adobe Flex, Morphis Foundations Framework;
+* Funções: Desenvolvimento de sistema com Oracle PL/SQL, Java, Adobe Flex e Morphis Foundations Framework;
 * Empresa: MV SISTEMAS
 * Período: Início em Março 2019 até o momento.
