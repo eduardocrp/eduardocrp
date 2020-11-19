@@ -1,8 +1,8 @@
 # Eduardo Correia Pinto Alves Barbosa
 Brasileiro, solteiro, 29 anos </br>
-Av. Eraldo Gueiros Leite, número 795, Edifício O Forte AP 101 </br>
-Garapu – Cabo de Santo Agostinho – PE </br>
-Telefone: (81) 99611-9656 / (81) 99202-1795 / (81) 99829-8500 </br>
+Rua Itararé, número 01 </br>
+Barra de Jangada – Jaboatão dos Guararapes – PE </br>
+Telefone: (81) 99611-9656 / (81) 99829-8500 </br>
 E-mail: ​eduardocrp@gmail.com​  </br>
 LinkedIn: ​http://br.linkedin.com/in/eduardocorreia </br>
 C.N.H. Tipo: AB </br>
