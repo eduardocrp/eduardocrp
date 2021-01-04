@@ -13,7 +13,6 @@ Atualmente formado em Bacharelado de Ciência da Computação com o interesse de
 
 ## Conhecimentos
 * Banco de dados Oracle e Mysql - desenvolvido projetos profissionalmente
-* Apache Tomcat – desenvolvido projetos profissionalmente
 * Java - desenvolvido projetos profissionalmente
 * HTML/CSS - desenvolvido projetos profissionalmente
 * JSF / Primefaces - desenvolvido projetos profissionalmente
@@ -21,7 +20,6 @@ Atualmente formado em Bacharelado de Ciência da Computação com o interesse de
 * Spring Boot / Api Rest – cursando
 
 ## Formação Acadêmica
-
 * Bacharelado em Ciência da Computação na Faculdade dos Guararapes
 * Academia Java na Fuctura (Java, JDBC, JPA, Hibernate, JSF, Primefaces, JasperReports Básico e Webservices Rest Básico)
 * Curso Oracle Developer PL/SQL na Udemy
@@ -42,7 +40,11 @@ Atualmente formado em Bacharelado de Ciência da Computação com o interesse de
 * Funções: Desenvolvimento de sistema em Access com VBA e Java Web com JSF, PRIMEFACES e MySQL
 * Empresa: AD ENGENHARIA LTDA (GRUPO AD)
 * Período: Início em Fevereiro 2018 até Março 2019
-### Desenvolvedor IV 
+### Desenvolvedor IV / V
 * Funções: Desenvolvimento de sistema com Oracle PL/SQL, Java, Adobe Flex e Morphis Foundations Framework;
 * Empresa: MV SISTEMAS
-* Período: Início em Março 2019 até o momento.
+* Período: Início em Março 2019 até Dezembro 2020.
+### Analista Sênior
+* Funções: Desenvolvimento de sistemas com SAP Commerce Cloud (SAP Hybris Commerce);
+* Empresa: Accenture
+* Período: Início em Dezembro 2020 até o momento.
