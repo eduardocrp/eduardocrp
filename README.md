@@ -8,9 +8,6 @@ LinkedIn: ​http://br.linkedin.com/in/eduardocorreia </br>
 C.N.H. Tipo: AB </br>
 
 
-## Resumo
-Atualmente formado em Bacharelado de Ciência da Computação com o interesse de trabalhar em desenvolvimento de projetos com aplicações web, utilizando metódologias agéis e processos aplicados a cada tipo de projeto.
-
 ## Conhecimentos
 * Banco de dados Oracle e Mysql - desenvolvido projetos profissionalmente
 * Java - desenvolvido projetos profissionalmente
@@ -25,6 +22,7 @@ Atualmente formado em Bacharelado de Ciência da Computação com o interesse de
 * Curso Oracle Developer PL/SQL na Udemy
 * Curso Inglês Módulo Básico na CNA
 * Curso Online Html/Css Essencial na CURSOS IAG
+* Bootcamp Arquitetura de Software na IGTI
 * Cursando Spring Boot/Api Rest/JWT na Udemy
 
 ## Experiência
