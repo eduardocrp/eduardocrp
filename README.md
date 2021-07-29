@@ -2,7 +2,7 @@
 Brasileiro, solteiro, 29 anos </br>
 Rua Itararé, número 01 </br>
 Barra de Jangada – Jaboatão dos Guararapes – PE </br>
-Telefone: (81) 99611-9656 / (81) 99829-8500 </br>
+Telefone: (81) 99611-9656 / (81) 98206-1081 </br>
 E-mail: ​eduardocrp@gmail.com​  </br>
 LinkedIn: ​http://br.linkedin.com/in/eduardocorreia </br>
 C.N.H. Tipo: AB </br>
@@ -25,7 +25,6 @@ C.N.H. Tipo: AB </br>
 * Curso Inglês Módulo Básico na CNA
 * Curso Online Html/Css Essencial na CURSOS IAG
 * Bootcamp Arquitetura de Software na IGTI
-* Cursando Spring Boot/Api Rest/JWT na Udemy
 
 ## Experiência
 ### Estagiário
