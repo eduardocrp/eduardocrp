@@ -14,7 +14,9 @@ C.N.H. Tipo: AB </br>
 * HTML/CSS - desenvolvido projetos profissionalmente
 * JSF / Primefaces - desenvolvido projetos profissionalmente
 * JasperReports – desenvolvido projetos profissionalmente
-* Spring Boot / Api Rest – cursando
+* SAP Hybris Commerce - desenvolvido projetos profissionalmente
+* Spring MVC / Api Rest – desenvolvido projetos profissionalmente
+* Spring Boot / Api Rest – desenvolvido projetos acadêmicos
 
 ## Formação Acadêmica
 * Bacharelado em Ciência da Computação na Faculdade dos Guararapes
@@ -43,6 +45,6 @@ C.N.H. Tipo: AB </br>
 * Empresa: MV SISTEMAS
 * Período: Início em Março 2019 até Dezembro 2020.
 ### Analista Sênior
-* Funções: Desenvolvimento de sistemas com SAP Commerce Cloud (SAP Hybris Commerce);
+* Funções: Desenvolvimento de sistemas com SAP Hybris Commerce;
 * Empresa: Accenture
 * Período: Início em Dezembro 2020 até o momento.
