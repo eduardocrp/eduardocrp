@@ -43,7 +43,7 @@ C.N.H. Tipo: AB </br>
 * Funções: Desenvolvimento de sistema com Oracle PL/SQL, Java, Adobe Flex e Morphis Foundations Framework;
 * Empresa: MV SISTEMAS
 * Período: Início em Março 2019 até Dezembro 2020.
-### Analista Sênior
+### Application Development Senior Analyst 
 * Funções: Desenvolvimento de sistemas com SAP Hybris Commerce;
 * Empresa: Accenture
 * Período: Início em Dezembro 2020 até o momento.
