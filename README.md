@@ -1,5 +1,5 @@
 # Eduardo Correia Pinto Alves Barbosa
-Brasileiro, solteiro, 29 anos </br>
+Brasileiro, solteiro, 30 anos </br>
 Rua Itararé, número 01 </br>
 Barra de Jangada – Jaboatão dos Guararapes – PE </br>
 Telefone: (81) 99611-9656 / (81) 98206-1081 </br>
@@ -9,14 +9,15 @@ C.N.H. Tipo: AB </br>
 
 
 ## Conhecimentos
-* Banco de dados Oracle e Mysql - desenvolvido projetos profissionalmente
+* Banco de dados Oracle, Mysql, Postgres e DynamoDB - desenvolvido projetos profissionalmente
 * Java - desenvolvido projetos profissionalmente
+* Kotlin - desenvolvido projetos profissionalmente
 * HTML/CSS - desenvolvido projetos profissionalmente
 * JSF / Primefaces - desenvolvido projetos profissionalmente
 * JasperReports – desenvolvido projetos profissionalmente
 * SAP Hybris Commerce - desenvolvido projetos profissionalmente
 * Spring MVC / Api Rest – desenvolvido projetos profissionalmente
-* Spring Boot / Api Rest – desenvolvido projetos acadêmicos
+* Spring Boot / Api Rest – desenvolvido projetos profissionalmente
 
 ## Formação Acadêmica
 * Bacharelado em Ciência da Computação na Faculdade dos Guararapes
@@ -46,4 +47,8 @@ C.N.H. Tipo: AB </br>
 ### Application Development Senior Analyst 
 * Funções: Desenvolvimento de sistemas com SAP Hybris Commerce;
 * Empresa: Accenture
-* Período: Início em Dezembro 2020 até o momento.
+* Período: Início em Dezembro 2020 até Agosto 2021.
+### Application Development Senior Analyst 
+* Funções: Desenvolvimento de Microserviços com Spring Boot, Kotlin, Java, DynamoDB, Apache Kafka, Amazon SQS, Amazon ECS, Jenkins e Kubernetes;
+* Empresa: Compasso
+* Período: Início em Agosto 2021 até o momento.
