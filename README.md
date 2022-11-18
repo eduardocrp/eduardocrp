@@ -1,8 +1,8 @@
 # Eduardo Correia Pinto Alves Barbosa
-Brasileiro, solteiro, 30 anos </br>
+Brasileiro, solteiro, 31 anos </br>
 Rua Itararé, número 01 </br>
 Barra de Jangada – Jaboatão dos Guararapes – PE </br>
-Telefone: (81) 99611-9656 / (81) 98206-1081 </br>
+Telefone: (81) 9 9400-8281 </br>
 E-mail: ​eduardocrp@gmail.com​  </br>
 LinkedIn: ​http://br.linkedin.com/in/eduardocorreia </br>
 C.N.H. Tipo: AB </br>
