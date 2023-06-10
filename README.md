@@ -19,6 +19,8 @@ C.N.H. Tipo: AB </br>
 * Spring Boot / Api Rest
 * Kafka
 * AWS SQS
+* Docker
+* Monitoramento splunk e newrelic
 
 ## Formação Acadêmica
 * Bacharelado em Ciência da Computação na Faculdade dos Guararapes
